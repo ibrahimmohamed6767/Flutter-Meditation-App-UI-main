@@ -1,11 +1,8 @@
 # Flutter Meditation App UI  
 
-### To try the app download the apk from the [Release Tab](https://github.com/mohammedhashim44/Flutter-Meditation-App-UI/releases/download/1.0.0%2B1/app-release.apk)  
 -------------  
-  
-### Flutter Version Used : 2.5.3 
-### Desing Credit : By  [Afsar Hossen](https://www.linkedin.com/in/afsar-shuvo/)  
-### Desing Files on Figma : [Meditation app UI](https://www.figma.com/community/file/882888114457713282)  
+### Flutter Version Used : 3.0.2
+
 
 <p>
    <img src="screenshots/board.png" />
